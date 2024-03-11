@@ -1,82 +1,52 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Aaron's Portfolio",
+		name: "Aaron Adom-Malm",
+		email: "aaronyebuah1234@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/niiyebuahh",
+		github: "https://github.com/niiyebuah",
+		linkedin: "https://www.linkedin.com/in/aaron-adom-malm-11111a195/",
+		instagram: "https://www.instagram.com/nii.yebuah/?hl=en",
 		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Software engineer with over three years experience in OOP",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+		"As a software engineer, I specialize in a variety of technologies including Laravel, PHP, Flutter, API testing and creation, ReactJS, and MySQL. With a deep understanding of these tools, I excel in developing robust and efficient solutions for complex problems. My passion for learning and staying updated with the latest trends in technology drives me to continuously improve and deliver high-quality results. I thrive in collaborative environments and enjoy working on diverse projects that challenge me to innovate and grow."
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "About",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
+		"As an experienced software engineer, I possess a wide range of skills and expertise spanning various technologies. Proficient in Laravel, PHP, Flutter, API testing and creation, ReactJS, and MySQL, among others, I have successfully led numerous projects with a meticulous approach to problem-solving and a dedication to excellence.My journey into software engineering began with a solid foundation in computer science, which I have continuously expanded through hands-on experience and ongoing self-improvement. With a relentless curiosity and a hunger for knowledge, I remain committed to exploring new tools, frameworks, and methodologies to stay at the forefront of technological innovation.Collaboration is central to my work philosophy, and I thrive in environments that encourage diverse perspectives and collective creativity. My academic background at Ashesi University, combined with real-world experience, has equipped me with a robust intellectual framework, making me a well-rounded and adaptable software engineer.Passionate about leveraging technology to solve real-world problems and create positive impact, I am excited about the endless possibilities in the ever-evolving landscape of software development."	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+		"As an avid writer and researcher, I'm constantly striving to elevate the quality of my articles through meticulous research and thoughtful analysis. Recognizing the importance of staying informed and providing readers with accurate, insightful content, I'm committed to honing my research skills and exploring new avenues for knowledge acquisition. With each article, I aim to deliver valuable insights and contribute meaningfully to the discourse in my field."
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Smart Irrigation System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Built a Smart Irrigation system that uses a web-based control system and an Unstructured Supplementary Service Data (USSD) control system to enable small-scale farmers in Ghana manage their irrigation systems efficiently and effectively",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/niiyebuah/Akuafoc",
 		},
 
 		{
-			title: "Project 2",
+			title: "Phone Number Validation System",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"The Phone Number Validation System streamlines phone number validation across platforms with meticulously crafted APIs. Featuring advanced capabilities like merging inactive numbers, it ensures data integrity and reliability, enhancing efficiency in phone number management and sms delivery",
+				logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png",
+				linkText: "Confidential",
 		},
 	],
 };
